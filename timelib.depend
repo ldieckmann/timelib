@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615326426 source:c:\users\ldieckmann\timelib\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"timelib.h"
+
+1615326875 source:c:\users\ldieckmann\timelib\timelib.c
+	"timelib.h"
+
+1615325957 c:\users\ldieckmann\timelib\timelib.h
+
